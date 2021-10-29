@@ -1,0 +1,124 @@
+#binnenrouletafel3tm36 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+
+#binnenrouletafel2tm35 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+
+}
+
+#binnenrouletafel1tm34 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+#extra1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#extra2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#rad {
+    display: flex;
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+    justify-content: center;
+}
+
+#echtetafel {
+    border: 5px solid brown;
+    width: 880px;
+    height: fit-content;
+    justify-content: center;
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+#randrouletafel {
+    color: white;
+}
+ 
+
+#rood {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    transform: rotate(-90deg);
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    color: white;
+
+}
+
+#zwart {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    transform: rotate(-90deg);
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    color: white;
+
+}
+
+#groen {
+    border: 1px solid black;
+    width: 217px;
+    height: 25px;
+    background-color: green;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#groen2 {
+    border: 1px solid black;
+    width: 108px;
+    height: 25px;
+    background-color: green;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#groen3 {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
